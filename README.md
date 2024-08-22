@@ -1,1 +1,1 @@
-# Git Assignment - jays-codes 2
+# Git Assignment - jays-codes
